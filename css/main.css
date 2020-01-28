@@ -1,0 +1,65 @@
+body{
+	background-color:#110a00;
+}
+
+p{
+	color: white;
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-size: 19px;
+
+}
+
+h1, h2{
+	color: white;
+	font-family: 'Alfa Slab One', cursive;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+
+
+
+
+#MainContainer {
+	margin: 0 auto;
+	width: 880px;
+	justify-content: center;
+    margin: 0 auto;
+    text-align:center;
+}
+
+#whyMuskoka{
+	display: flex;
+	flex-direction: row;
+	margin-top: 100px;
+}
+
+#ThreeImg{
+	margin-top: 45px;
+	margin-bottom: 50px;
+}
+
+#UnderImg{
+	margin-bottom: 45px;
+	margin-top: 50px;
+}
+
+#beers{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+	margin-left: 105px;
+	margin-right: 50px;
+	margin-bottom: 50px;
+}
+
+.packImageText p:first-line {
+	font-size: 20px;
+	color: #003A5E;
+
+
+}
+
+.ABOUT_THE_BREWERY{
+	margin-top: 50px;
+}
